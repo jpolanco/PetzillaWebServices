@@ -1,0 +1,19 @@
+{
+  "email": "",
+  "password": "",
+  "username": "",
+  "profilePicture": "",
+  "resourceType": "",
+  "description": "",
+  "name": {
+    "firstName": "",
+    "lastName": ""
+  },
+  "location": {
+    "country": "",
+    "city": "",
+    "zipCode": ""
+  },
+  "signupType": "",
+  "socialNetworkID": ""
+}
